@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mcnemesis in the hackersphere, Fra. Magina in the chaosphere, and JWL elsewhere.
+- 👋 Hi, I’m @mcnemesis in the hackersphere, Sat. Magyna in the chaosphere, and JWL elsewhere.
 - 👀 I’m interested in exploring, applying and creating with technology and the imagination.
 - 🌱 I’m currently conducting research in several mobile computing domains including interactive, intelligent soft-robots and cashless payments methods.
 - 💞️ I’m looking to collaborate on mind-altering digital solutions, data and knowledge engineering platforms that are ready for the near-singularity user.
