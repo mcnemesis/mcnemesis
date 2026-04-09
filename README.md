@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mcnemesis in the hackersphere, Fra. Magina in the chaosphere, and JWL C.M.R.W. elsewhere.
+- 👋 Hi, I’m @mcnemesis in the hackersphere, M*A*P Ade. Magina in the chaosphere, and JWL C.M.R.W. elsewhere.
 - 👀 I’m interested in exploring, applying and creating with technology and the imagination.
 - 🌱 I’m currently conducting research in computing at a fundamental level, mostly spanning interactive and intelligent systems, languages and methods.
 - 💞️ I’m looking for more peers and collaborators close to what am currently researching on. Definitely, with a tip to whoever is also interested in mind-altering computing systems, platform-engineering in general, though more interested in data and knowledge engineering platforms that are ready for the near-singularity user.
